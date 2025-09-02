@@ -1,7 +1,7 @@
 name: just_manager
 description: "Simple and efficient Flutter state management with JM for reactive UIs."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/JeaFrid/just-manager"
 
 environment:
   sdk: ^3.8.1
